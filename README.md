@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm Abdhesh. I build lots of demos/example on this account. Most of them are built using Scala/Cats/Cats-effect/circe/zio/shapless/akka/spark,functional Java and React JS.
+
+I work at [Call Handling Services](https://www.callhandling.co.uk/) as a Software Engineer. For information about me,check out on [Linkedin profile](https://linkedin.com/in/abdhesh/) and [learnscala.co](http://learnscala.co/)
 
 <!--
 **abdheshkumar/abdheshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
