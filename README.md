@@ -1,6 +1,6 @@
-Hi, I'm Abdhesh. I build lots of demos/example on this account. Most of them are built using Scala/Cats/Cats-effect/circe/zio/shapless/akka/spark,functional Java and React JS.
+Hi, I'm Abdhesh. I build lots of demos/examples on this account. Most of them are built using Scala/Cats/Cats-effect/circe/zio/shapless/akka/spark, functional Java and React JS.
 
-I work at [Expedia Group, London](https://www.expedia.com/) as a Software Engineer. For information about me,check out on [Linkedin profile](https://linkedin.com/in/abdhesh/) and [My blogs](https://abdheshkumar.github.io/)
+I work at [Expedia Group, London](https://www.expedia.com/) as a Software Engineer. For information about me, check out [Linkedin profile](https://linkedin.com/in/abdhesh/) and [blogs](https://abdheshkumar.github.io/)
 
 <!--
 **abdheshkumar/abdheshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
