@@ -1,13 +1,18 @@
 # Hi, I'm Abdhesh! 👋
 
-I work as a Software Engineer at [Expedia Group, London](https://www.expedia.com/). 
+I am a Software Engineer at [Expedia Group, London](https://www.expedia.com/). 
 
 ![Abdhesh's Stats](https://github-readme-stats.vercel.app/api?username=abdheshkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
 - Scala
    - Scala/Cats/Cats-effect/circe/zio/akka/spark, functional Java and React JS.
-     
+
+## 🌱 Currently Exploring
+
+- Exploring Rust Programming Language
+- Exploring AI.
+         
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/abdhesh_rkg), [Linkedin profile](https://linkedin.com/in/abdhesh/) and [blogs](https://abdheshkumar.github.io/)
