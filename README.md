@@ -6,11 +6,13 @@ I am a Software Engineer at [Expedia Group, London](https://www.expedia.com/).
 
 ## Tech Stack
 - Scala
-   - Scala/Cats/Cats-effect/circe/zio/akka/spark, functional Java and React JS.
+   - Scala, gRPC, Cats, Cats-effect, Circe, ZIO, Akka, Spark, Kafka
+- Java/Kotlin
+   - Kotlin/Java Spring, Functional Kotlin, gRPC and Flink & Kafka
 
 ## 🌱 Currently Exploring
 
-- Exploring Rust Programming Language
+- Exploring the Rust Programming Language
 - Exploring AI.
          
 ## 📬 Get in Touch
