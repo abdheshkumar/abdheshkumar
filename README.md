@@ -14,7 +14,9 @@ I am a Software Engineer at [Expedia Group, London](https://www.expedia.com/).
 
 - Exploring the Rust Programming Language
 - Exploring AI.
-         
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdheshkumar&hide=javascript)](https://github.com/abdheshkumar/github-readme-stats)
+
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/abdhesh_rkg), [Linkedin profile](https://linkedin.com/in/abdhesh/) and [blogs](https://abdheshkumar.github.io/)
